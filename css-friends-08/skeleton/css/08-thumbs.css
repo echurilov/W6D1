@@ -1,0 +1,18 @@
+/* PHASE 8: Thumbs */
+.thumb {
+  background-color: red;
+  z-index: 99;
+  background-image: url("https://news.nationalgeographic.com/content/dam/news/2018/05/17/you-can-train-your-cat/02-cat-training-NationalGeographic_1484324.ngsversion.1526587209178.adapt.1900.1.jpg");
+}
+
+.profile-friends > li {
+  float: left;
+  width: 60px;
+  margin: 0 0 10px 0;
+  height: 60px;
+  background-image: url("https://news.nationalgeographic.com/content/dam/news/2018/05/17/you-can-train-your-cat/02-cat-training-NationalGeographic_1484324.ngsversion.1526587209178.adapt.1900.1.jpg");
+}
+
+.profile-friends {
+  height: 200px;
+}
